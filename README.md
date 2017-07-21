@@ -1,6 +1,6 @@
 # ArduinoForResearch
 Arduino program for graduate from College
 
-#Other
+#Other 
 Library:  http://www.arduino.cc/en/Guide/Libraries
 
